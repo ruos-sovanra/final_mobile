@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ouchnisa.ecommerce'
+    namespace 'com.ruossovanra.ecommerce'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.ouchnisa.ecommerce"
+        applicationId "com.ruossovanra.ecommerce"
         minSdk 24
         targetSdk 34
         versionCode 1
